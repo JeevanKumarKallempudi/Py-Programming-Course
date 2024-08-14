@@ -26,7 +26,6 @@ Total Amount = Rs. 260
 Output: 260
 '''
 
-import sys
 distance, time = int(input()), int(input())
 
 # Write you code here

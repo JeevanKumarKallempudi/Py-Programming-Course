@@ -9,7 +9,6 @@ Input - 2012
 Output - Leap year
 '''
 
-import sys
 year = int(input())
 
 # Write your code here

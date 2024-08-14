@@ -7,7 +7,6 @@ Output: 25
 Explanation: 1+3+5+7+9 = 25
 '''
 
-import sys
 N = int(input())
 odd_sum = 0
 for i in range(1, N+1, 2):
