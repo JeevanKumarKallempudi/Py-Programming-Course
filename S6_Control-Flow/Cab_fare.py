@@ -28,7 +28,6 @@ Output: 260
 
 distance, time = int(input()), int(input())
 
-# Write you code here
 base_price = 50 # Base price 
 amount = 0 # variable to calculate total amount
 if (distance > 5):
@@ -43,5 +42,3 @@ else:
     
 amount = base_price + amt_distance + amt_time
 print(amount)
-
-# Code ends here
