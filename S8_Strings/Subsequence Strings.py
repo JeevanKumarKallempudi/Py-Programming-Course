@@ -15,7 +15,6 @@ s2 = "coding minutes"
 Output : False
 """
 
-import sys
 s1, s2  = input(), input() 
 
 i, j = 0, 0
