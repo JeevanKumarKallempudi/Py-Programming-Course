@@ -15,7 +15,8 @@ if __name__ == "__main__":
         print("Yes, it is Prime")
     else:
         print("Not a Prime")
-    
+   
+   #Below code prints prime numbers till N 
     """
     for i in range(1, n+1):
         if(IsPrime(i)):
