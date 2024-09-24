@@ -1,0 +1,24 @@
+Recursion in computer science is a technique where the solution to a problem depends on solutions to smaller instances of the same problem
+
+
+"It mainly works on principle called "CALL STACK"."
+Example1 : Factorial!
+N = 5 
+f(N) = N!
+    = N * (N-1)
+    = N * f(N - 1) 
+
+Example2 : Go to Home :
+
+Base Case:
+1. If you are at home, stop moving.
+
+Recursive case:
+2. Take one step toward home.
+3. "Go to Home"
+
+Recursion = Principal of Mathematical Induction
+
+1. Figure out the Smallest case
+2. Always assume the subproblem can be solved.
+3. Solve the current probelm  assuming subproblem solution is exists.
